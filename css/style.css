@@ -1,0 +1,48 @@
+body{
+  font-family: 'Karla', sans-serif;
+}
+.attribution {
+               font-size: 11px;
+               text-align: center;
+               color: hsl(218, 22%, 30%)
+             }
+
+.attribution a {
+               color:hsl(179, 62%, 30%);
+               }
+.heading1{
+  color:hsl(179, 62%, 43%);
+}
+
+.heading2{
+  color:hsl(71, 73%, 54%);
+}
+
+.paragraph{
+  color: hsl(218, 22%, 67%)
+}
+
+.section0{
+  background-color:#f7f7f7;
+  margin-top: 10%;
+  padding: 2%  4% 3%;
+  border-radius: 0px 0px 0px 0px;
+}
+
+.section1{
+  background-color: hsl(179, 62%, 43%);
+  color: white;
+
+  padding: 2%  8% 3%;
+  border-radius: 0px 0px 0px 10px;
+
+}
+
+.section2{
+  background-color: hsl(179, 62%, 50%);
+  color: white;
+  height: 100%;
+  padding: 2%  8% 3%;
+  border-radius: 0px 0px 10px 0px;
+
+}
